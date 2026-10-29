@@ -5,7 +5,7 @@
 <h1>Hello World! <img src="Assets/Earth.gif" height="24" width="24"> - I'm Hex👋 </h1>
 
 <p>
-  <b>Developer • Game Development • Open Source</b>
+  <b>Developer • Game Development • Software Development • Open Source</b>
 </p>
 
 </div>
