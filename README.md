@@ -5,7 +5,7 @@
 <h1>Hello World! <img src="Assets/Earth.gif" height="24" width="24"> - I'm Hex👋 </h1>
 
 <p>
-  <b>Developer • Game Development • WoW Emulation • Open Source</b>
+  <b>Developer • Game Development • Open Source</b>
 </p>
 
 </div>
@@ -19,7 +19,7 @@ Hey! I'm **Hex**, a developer who enjoys building things and figuring out how th
 I'm mainly interested in:
 
 - Game development
-- WoW emulation & WoW Modding
+- Multiplayer Infrastructure & Game Server Development
 - Software development and open-source projects
 - Development tools and utilities
 - Web development
